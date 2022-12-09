@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Aligni - Login</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="all">
+
+    <link rel="icon" type="image/x-icon" href="favicons/assets-favicon-de32db3ebca9dcf4d82fc9fdeabe1aff985eaecb0c67b401f8071fe359a0a263.ico">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-57x57-bc864abc994d5c56e9b7c6091369daf2f627e880a6c73b9a7c4496f873213945.png" sizes="57x57">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-60x60-f6086c74894e663c7be750eb9597a64ff3ef851e42d858bc28837df1f0025f73.png" sizes="60x60">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-72x72-87bf5f514504bba6a3a8ae3c1f07e7172c1b90c7b38aa33b9a3761f29a22cbc4.png" sizes="72x72">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-76x76-5d8dfdff4187cc37a9a74855e2c972711687b8a0385430e64e857ed0f764a203.png" sizes="76x76">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-114x114-f2ca92b5acce490163b59c60e2ff94f9a82a549542e3748a5ff3ef3eb1376316.png" sizes="114x114">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-120x120-a1641c3d27e9349e64d523acdf4dccb5517c7a4495dbe3c10dd783b0bfe27694.png" sizes="120x120">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-144x144-e1bcfbb941f113a9da7cf7f0d7f1dc70dffe8f6ffe87cb93bae37209e16ad57c.png" sizes="144x144">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-152x152-b723d0f6e8cbedf26ab99fd10b0728577821084d7aab8fce0f0c844057654402.png" sizes="152x152">
+  <link rel="apple-touch-icon" type="image/png" href="favicons/touch-icons-apple-icon-180x180-cb66408ac3aa236a8148d0deacdbb680334af1c06b178b44d4ba1d59694b2596.png" sizes="180x180">
+
+<link rel="icon" type="image/png" href="favicons/touch-icons-android-icon-192x192-5cdb0b7cacfd655a829d0339e9950edb9f7e132a9cbece21da70770fac5daf4e.png" sizes="192x192">
+
+  <link rel="icon" type="image/png" href="favicons/touch-icons-favicon-16x16-0a5177727c4211cea1030ab66a4d324e3f673077de63b9cb4e3fffb2e177e91a.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="favicons/touch-icons-favicon-32x32-3eafaeadd31f2e5030047eec156aa867a17dc20d9e293918e87b411b96ad006e.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="favicons/touch-icons-favicon-96x96-dc0ccb784f82aa603e6b0785ff75d731e69dbb96484f57dcbe4e8d19898a58cb.png" sizes="96x96">
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/assets/touch-icons/ms-icon-144x144-e1bcfbb941f113a9da7cf7f0d7f1dc70dffe8f6ffe87cb93bae37209e16ad57c.png">
+<meta name="theme-color" content="#ffffff">
+
+
+
+    <link rel="stylesheet" href="css/assets-login-35c35aec336e3e2bc7c8327830a6b47c722ce077c90bbd8437fafca53f1f3ff8.css" media="screen">
+
+    <script src="js/assets-login-634aee38d746e4072da65993e1b07881fe8259d9fb85d42664c29f58a0e71f8a.js"></script>
+
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="bhlfzfRMzdSpmgKlD6XlJT13L7K9auj66ad5wOQ2sbFhn88spmfisI1vRzE-nwWNns7wla-tBCxkorNQta4-4w">
+  </head>
+
+  <body data-aligni-page="login/index" data-turbo="false">
+    <!--[if lte IE 9]>
+<div class="ie-warning">
+  <div class="ie-warning-content media">
+    <i class="icon icon-warning text-danger-alt pull-left"></i>
+    <div class="media-body">
+      You are using an outdated browser (Internet Explorer 9 or below). Please consider updating to at least version 10 of Internet Explorer, or switch to a web standards compliat browser such as Chrome, Safari, or Firefox.
+    </div>
+  </div>
+</div>
+<![endif]-->
+
+
+    <section class="login">
+
+
+
+
+<h1>Well, Hello There</h1>
+
+<div class="box">
+  <h3 class="mb-lg">Please log in to your account.</h3>
+
+  <form action="/login" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="735IWyh01fkZ5g4KBC_nTh_ouxlpDbPBv6rOqXQXa7Lg-Ni6el_6nT0TS541FQfmvFFkPnvKXxcyrwQ5JY_k4A" autocomplete="off">
+    <input type="hidden" name="token" id="token" autocomplete="off">
+
+    <div class="form-group">
+      <label class="control-label text-right" for="account_email_or_username">Username or Email</label>
+
+      <input autofocus="autofocus" class="form-control" type="text" name="account[email_or_username]" id="account_email_or_username">
+    </div>
+
+    <div class="form-group">
+      <label class="control-label text-right" for="account_password">Password</label>
+
+      <input class="form-control" type="password" name="account[password]" id="account_password">
+    </div>
+
+    <div class="checkbox pt-none">
+      <input type="checkbox" name="remember_me" id="remember_me" value="true" checked>
+      <label class="control-label" for="remember_me">
+        Remember me on this computer
+      </label>
+    </div>
+
+    <div class="form-actions mt-lg">
+      <input type="submit" name="commit" value="Log In" class="btn btn-primary" data-disable-with="Authenticating...">
+
+      <a class="ml-base" href="new.html">Forgot password?</a>
+    </div>
+
+    <div class="form-actions mt-lg">
+      <div class="box box-well box-well-shaded text-center">
+        Don't have an account yet?
+        <a href="new.html">Sign Up for one!</a>
+      </div>
+    </div>
+</form></div>
+
+    </section>
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <script data-cfasync="false" src="js/cloudflare-static-email-decode.min.js"></script></body>
+</html>

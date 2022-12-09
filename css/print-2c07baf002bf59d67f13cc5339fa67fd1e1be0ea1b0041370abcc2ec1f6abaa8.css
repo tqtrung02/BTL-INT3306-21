@@ -1,0 +1,35 @@
+@media print{body{font-family:Helvetica Neue, Helvetica, sans-serif;color:#000;font-size:8pt}a,a:visited{color:#000;text-decoration:none}pre,blockquote{border:1px solid #999;page-break-inside:avoid}thead{display:table-header-group}tr,img{page-break-inside:avoid}img{max-width:100% !important}@page{margin:1cm}p,h1,h2,h3,h4,h5,h6{orphans:3;widows:3}h1,h2,h3,h4,h5,h6{page-break-after:avoid}.page-header{background-color:transparent;border-bottom:none}.page-header *{display:none}.page-header .page-title{float:none;color:#000;display:block}
+.page-wrap{margin-left:0;margin-right:0;max-width:100000px;min-width:1px}
+.nav,
+.navbar,
+.dropdown,
+.popover,.form-group
+,.btn,button,input[type="submit"],
+.checkbox,
+.radio,.paging,
+.sprawsm-design-discussion,
+.part-avatar{display:none !important}table caption,
+.panel-heading,.well{background:transparent !important}
+.table-primary caption{padding:0;margin-bottom:20px}
+.panel
+.panel-heading,
+.panel-dashbox
+.panel-heading{padding:0 20px;margin-top:20px;margin-bottom:20px;min-height:1px}
+.panel
+.panel-body,
+.panel-dashbox
+.panel-body{padding-top:0}
+.well{padding:0 !important}
+.table-primary caption:after,
+.panel
+.panel-heading:after,
+.panel-dashbox
+.panel-heading:after,
+.faux-truncate:after{display:none}
+.faux-truncate{white-space:normal;overflow:visible;height:auto;position:static}
+.panel{border-color:#000}
+.panel-title{text-transform:uppercase;font-size:8pt;font-weight:bold}table{width:100%}table caption{text-align:left}table th{font-size:6pt;text-transform:uppercase;letter-spacing:.1em;color:#000}
+.table-bordered,
+.table-bordered th,
+.table-bordered td{border-color:#ffffff}
+.equal-height{height:auto !important}}

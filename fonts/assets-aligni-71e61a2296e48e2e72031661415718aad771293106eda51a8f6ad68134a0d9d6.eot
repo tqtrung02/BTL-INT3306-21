@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head >
+    <title>Oops...</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="all" />
+
+    <link rel="icon" type="image/x-icon" href="/assets/favicon-de32db3ebca9dcf4d82fc9fdeabe1aff985eaecb0c67b401f8071fe359a0a263.ico" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-57x57-bc864abc994d5c56e9b7c6091369daf2f627e880a6c73b9a7c4496f873213945.png" sizes="57x57" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-60x60-f6086c74894e663c7be750eb9597a64ff3ef851e42d858bc28837df1f0025f73.png" sizes="60x60" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-72x72-87bf5f514504bba6a3a8ae3c1f07e7172c1b90c7b38aa33b9a3761f29a22cbc4.png" sizes="72x72" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-76x76-5d8dfdff4187cc37a9a74855e2c972711687b8a0385430e64e857ed0f764a203.png" sizes="76x76" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-114x114-f2ca92b5acce490163b59c60e2ff94f9a82a549542e3748a5ff3ef3eb1376316.png" sizes="114x114" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-120x120-a1641c3d27e9349e64d523acdf4dccb5517c7a4495dbe3c10dd783b0bfe27694.png" sizes="120x120" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-144x144-e1bcfbb941f113a9da7cf7f0d7f1dc70dffe8f6ffe87cb93bae37209e16ad57c.png" sizes="144x144" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-152x152-b723d0f6e8cbedf26ab99fd10b0728577821084d7aab8fce0f0c844057654402.png" sizes="152x152" />
+  <link rel="apple-touch-icon" type="image/png" href="/assets/touch-icons/apple-icon-180x180-cb66408ac3aa236a8148d0deacdbb680334af1c06b178b44d4ba1d59694b2596.png" sizes="180x180" />
+
+<link rel="icon" type="image/png" href="/assets/touch-icons/android-icon-192x192-5cdb0b7cacfd655a829d0339e9950edb9f7e132a9cbece21da70770fac5daf4e.png" sizes="192x192" />
+
+  <link rel="icon" type="image/png" href="/assets/touch-icons/favicon-16x16-0a5177727c4211cea1030ab66a4d324e3f673077de63b9cb4e3fffb2e177e91a.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="/assets/touch-icons/favicon-32x32-3eafaeadd31f2e5030047eec156aa867a17dc20d9e293918e87b411b96ad006e.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/assets/touch-icons/favicon-96x96-dc0ccb784f82aa603e6b0785ff75d731e69dbb96484f57dcbe4e8d19898a58cb.png" sizes="96x96" />
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/assets/touch-icons/ms-icon-144x144-e1bcfbb941f113a9da7cf7f0d7f1dc70dffe8f6ffe87cb93bae37209e16ad57c.png">
+<meta name="theme-color" content="#ffffff">
+
+
+
+    <link rel="stylesheet" href="/assets/auth_styles-8fc0bf480ad699180b38aaf881b11936d5932bc5273590725fd715ad8c3d1651.css" media="screen" />
+  </head>
+
+  <body data-turbo="false">
+    <section class="announcement">
+  <img alt="Error 404" src="/assets/login/illustration-404-003fdb38cb97ceaf76095c2fe1376b39a2a194159ffa528c111ef0131c4a7ff6.png" />
+
+  <div class="box box-highlight mt-lg">
+    <h2 class="h3">Missing Item?</h2>
+    <p>It's possible that the item you're looking for has been deleted.</p>
+
+    <h2 class="h3 mt-lg">Typo?</h2>
+    <p>
+      If you got here by typing the URL yourself, please check your spelling
+      and try again.
+    </p>
+
+    <h2 class="h3 mt-lg">Bad Link?</h2>
+    <p>
+      If you found this page by following a link on one of our pages, please
+      <a href="/cdn-cgi/l/email-protection#becdcbceced1cccafedfd2d7d9d0d790ddd1d3">email us</a> so that we may fix this problem. Be sure to include
+      as much information as possible so we can recreate the issue.
+    </p>
+  </div>
+
+  <div class="box">
+  <p>
+    This error may be caused by an inconsistency in your session storage.
+    Please try <a href="/login/logout">logging out</a> and
+    then logging back in again to see if this fixes the issue.
+  </p>
+
+  <p>
+    You can always go back to the <a href="/">homepage</a>.
+  </p>
+</div>
+
+<footer class="page-footer">
+  <a href="/">
+    <img class="pull-right ml-base" width="110" src="/assets/login/aligni-logo-e249ba2c583dc2876d8e97cc00a07de42a297504e083f865d0e083892d89271f.svg" />
+</a>  Copyright &copy; 2005-2022, Aligni Incorporated. All rights reserved.
+  <br>
+  <a class="text-light" href="https://www.aligni.com/terms-of-use/">Terms of Use</a>
+  <a class="text-light ml-base" href="https://www.aligni.com/privacy-policy/">Privacy Policy</a>
+  <a class="text-light ml-base" href="/login/logout">Sign out</a>
+</footer>
+
+
+</section>
+
+
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
